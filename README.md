@@ -28,11 +28,14 @@ in this comparison.
 
 ## Table of Contents
 - [Proposed Methodology](#experimental-methodology)
+- [Paper](#paper-link)
 - [Dataset Availability](#dataset-availability)
 - [Results](#results)
 - [Contact Information](#contact-information)
 - [Citation](#citation)
 
+## Preprint Link
+Explore our research on Bengali Political Sentiment Analysis to understand the nuances of political discourse in the Bengali language. Access the full paper [here](https://arxiv.org/pdf/2407.19528).
 
 ## Proposed Methodology
 ![Methodology](political_diagram.jpg)
