@@ -1,7 +1,30 @@
 # Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis
 
 ## Abstract
-
+Sentiment analysis is the process of identifying and
+categorizing people’s emotions or opinions regarding various
+topics. Analyzing political sentiment is critical for understanding
+the complexities of public opinion processes, especially during
+election seasons. It gives significant information on voter preferences, attitudes, and current trends. In this study, we investigate
+political sentiment analysis during Bangladeshi elections, specifically examining how effectively Pre-trained Language Models
+(PLMs) and Large Language Models (LLMs) capture complex
+sentiment characteristics. Our study centers on the creation of
+the "Motamot" dataset, comprising 7,058 instances annotated
+with positive and negative sentiments, sourced from diverse
+online newspaper portals, forming a comprehensive resource
+for political sentiment analysis. We meticulously evaluate the
+performance of various PLMs including BanglaBERT, Bangla
+BERT Base, XLM-RoBERTa, mBERT, and sahajBERT, alongside
+LLMs such as Gemini 1.5 Pro and GPT 3.5 Turbo. Moreover,
+we explore zero-shot and few-shot learning strategies to enhance
+our understanding of political sentiment analysis methodologies.
+Our findings underscore BanglaBERT’s commendable accuracy
+of 88.10% among PLMs. However, the exploration into LLMs
+reveals even more promising results. Through the adept application of Few-Shot learning techniques, Gemini 1.5 Pro achieves
+an impressive accuracy of 96.33%, surpassing the remarkable
+performance of GPT 3.5 Turbo, which stands at 94%. This
+underscores Gemini 1.5 Pro’s status as the superior performer
+in this comparison.
 
 ## Table of Contents
 - [Proposed Methodology](#experimental-methodology)
