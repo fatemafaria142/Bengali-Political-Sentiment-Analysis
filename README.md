@@ -27,8 +27,8 @@ underscores Gemini 1.5 Pro’s status as the superior performer
 in this comparison.
 
 ## Table of Contents
+- [Preprint](#paper-link)
 - [Proposed Methodology](#experimental-methodology)
-- [Paper](#paper-link)
 - [Dataset Availability](#dataset-availability)
 - [Results](#results)
 - [Contact Information](#contact-information)
